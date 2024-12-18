@@ -7,10 +7,7 @@ Ce TP a pour objectif de créer une application graphique connectée à une base
 - Logiciels requis :
   - installer Qt Creator
   - installer MySQL pour la gestion de la base de données.
-    ```
-    sudo apt install mysql-server
-```
-
+    
 ## Structure du Projet
 
 ### Fichiers Inclus
