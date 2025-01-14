@@ -58,7 +58,7 @@ INSERT INTO jeu (id, nom, club) VALUES
     (1, 'Ronaldo', 'Madrid'),
     (2, 'Grizou', 'Barca');
 
-     ```
+   
 
 3. **Configuration du Projet Qt**
    - Initialiser un projet Qt dans Qt Creator.
