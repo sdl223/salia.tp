@@ -46,7 +46,7 @@ Ce TP a pour objectif de créer une application graphique connectée à une base
 
 2. **Création de la Base de Données**
    - Accéder à MySQL et créer une base de données nommée `jeu` :
-   
+  ``   
 CREATE DATABASE jeu;
 USE jeu;
 CREATE TABLE jeu (
@@ -57,7 +57,7 @@ CREATE TABLE jeu (
 INSERT INTO jeu (id, nom, club) VALUES
     (1, 'Ronaldo', 'Madrid'),
     (2, 'Grizou', 'Barca');
-
+``
    
 
 3. **Configuration du Projet Qt**
