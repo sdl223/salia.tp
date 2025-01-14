@@ -46,7 +46,7 @@ Ce TP a pour objectif de créer une application graphique connectée à une base
 
 2. **Création de la Base de Données**
    - Accéder à MySQL et créer une base de données nommée `jeu` :
-  ``   
+``
 CREATE DATABASE jeu;
 USE jeu;
 CREATE TABLE jeu (
